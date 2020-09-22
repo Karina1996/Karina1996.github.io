@@ -1,0 +1,12 @@
+@startuml
+skinparam class {
+	BackgroundColor White
+	ArrowColor Black
+	BorderColor Black
+}
+class "Студент" as P {
+Кухонные приборы
+Шарлотка Приготовить шарлотку (Пищевые продукты, Рецепт)
+}
+hide circle
+@enduml
