@@ -1,0 +1,30 @@
+
+# Отчет по лабораторным работам
+# студент группы [ИДБ-17-05](https://github.com/stankin/design-part-1/wiki/list-idb-17-05) Лазарева К.Р.
+
+## Лабораторная работа №1
+[Задание №1](https://github.com/stankin/design-1/wiki/lab-1)
+1. RAMUS - программное средство разработки структурно-функциональных моделей
+Нотация IDEF0: Структурированное отображение функций производственной системы/среды, информации и объектов, связывающих эти функции
+
+### Создание IDEF0-диаграммы "Приготовление шарлотки" в RAMUS 
+* IDEF0-диаграмма в развернутом виде:
+![none](https://github.com/Karina1996/Karina1996.github.io/blob/master/Laba_1/IDEF0_cookCharlotte.png)
+**Студент при помощи кухонных приборов приготавливает шарлотку по кулинарному рецепту**
+
+[Файл модели](https://github.com/Karina1996/Karina1996.github.io/blob/master/Laba_1/IDEF0_cookCharlotte.rsf)
+
+2. PLANTUML - программное средство автоматической генерации UML-диаграмм
+Диаграмма классов — структурная диаграмма языка моделирования UML, демонстрирующая общую структуру иерархии классов системы, их коопераций, атрибутов, методов, интерфейсов и взаимосвязей между ними.
+Диаграмма вариантов использования (прецедентов) -  диаграмма, отражающая отношения между акторами и прецедентами и являющаяся составной частью модели прецедентов, позволяющей описать систему на концептуальном уровне.
+
+### Создание диаграммы классов и диаграммы прецедентов "Приготовление шарлотки" в PLANTUML 
+* [Текст](https://github.com/Karina1996/Karina1996.github.io/blob/master/Laba_1/UML_Code1.txt) и [Картинка](https://github.com/Karina1996/Karina1996.github.io/blob/master/Laba_1/UML_TotalDiagram.png) диаграммы классов
+
+![none](https://github.com/Karina1996/Karina1996.github.io/blob/master/Laba_1/UML_TotalDiagram.png)
+
+**Студент является человеком, который использует кухонные приборы. Каждый человек способен приготовить пищу согласно алгоритму действий (кулинарному рецепту), а без помощи пищевых продуктов это НЕВОЗМОЖНО.**
+
+* [Текст](hhttps://github.com/Karina1996/Karina1996.github.io/blob/master/Laba_1/UML_Code2.txt) и [Картинка](https://github.com/Karina1996/Karina1996.github.io/blob/master/Laba_1/UML_DiagramPrecedentov.png) диаграммы прецедентов
+
+![none](https://github.com/Karina1996/Karina1996.github.io/blob/master/Laba_1/UML_DiagramPrecedentov.png)
