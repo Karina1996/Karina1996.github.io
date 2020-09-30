@@ -13,7 +13,7 @@
 ### Описание процесса "Приготовить шарлотку" с помощью IDEF0-диаграммы в RAMUS 
 Исходный текст предложения: Приготовить шарлотку
 * IDEF0-диаграмма в развернутом виде:
-![none](https://github.com/Karina1996/Karina1996.github.io/blob/master/Laba_1/IDEF0_cookCharlotte.png)
+![none](https://github.com/Karina1996/Karina1996.github.io/blob/master/Laba_1/exp_img/01_A0.png)
 Рузультативное предложение: **Студент при помощи кухонных приборов приготавливает шарлотку по кулинарному рецепту**
 
 [Файл модели](https://github.com/Karina1996/Karina1996.github.io/blob/master/Laba_1/IDEF0_cookCharlotte.rsf)
@@ -43,12 +43,12 @@
 * IDEF0-диаграмма в развернутом виде:
 
   **Блок А0**
-![none](https://github.com/Karina1996/Karina1996.github.io/blob/master/Laba_2/IDEF0_WelcomeWork.png)
+![none](https://github.com/Karina1996/Karina1996.github.io/blob/master/Laba_2/exp_img/01_A0.png)
 
 **В контекстной   диаграмме   входной   информацией   являются  данные:   Документы для офорmления трудового договора в соотвествии с ТК РФ, а также Заявление   о приёме на работу. Выходная информация – Приказ о приёме на работу. Механизмами являются неоформленные Сотрудники, Гаджет (какое-либо устройство, помогающее в достижение цели). Управляющий элемент –  Трудовое законодательство РФ (ТК РФ).**
  
   **Блоки А1, А2, А3**
-![none](https://github.com/Karina1996/Karina1996.github.io/blob/master/Laba_2/IDEF0_ProcA3.png)
+![none](https://github.com/Karina1996/Karina1996.github.io/blob/master/Laba_2/exp_img/02_A0.png)
 
 
 [Файл модели](https://github.com/Karina1996/Karina1996.github.io/blob/master/Laba_2/IDEF0_WelcomeWork.rsf)
@@ -57,10 +57,13 @@
 
 ### Декомпозиция (разбиение на подпроцессы) блока "Оформить приказ" в DFD
   
-В качестве автоматизируемого блока выбран единственный блок: А3 - "Оформить приказ". DFD (Data Flow Diagrams)- диаграммы потоков данных
+В качестве автоматизируемых блоков выбраны: А1 - "Управлять", А3 - "Оформить приказ". DFD (Data Flow Diagrams)- диаграммы потоков данных
 
+  **Блок А1**
+![none](https://github.com/Karina1996/Karina1996.github.io/blob/master/Laba_2/exp_img/03_A1.png)
 
-![none](https://github.com/Karina1996/Karina1996.github.io/blob/master/Laba_2/DFD_ProcA3.png)
+  **Блок А3**
+![none](https://github.com/Karina1996/Karina1996.github.io/blob/master/Laba_2/exp_img/04_A3.png)
 
 **В диаграмме процесса «Оформить приказ» обязательным условием для входной информации является подписанное Заявление и Трудовой договор. В случае, если какой-либо из документов не подписан - возврат на предыдущий этап (процесс). Процесс "Оформить приказ" состоит из трех подпроцессов: Формирование приказа, Рассмотрение приказа, Утверждение приказа. Выходная информация – Оформленный приказ, который может быть СОХРАНЁН, например, в базу данных (БД).**
 **Думаю, неудачно получилось:)**
