@@ -1,6 +1,22 @@
 @startuml
-Директор --> (Формирование приказа о приёме)
-Директор --> (Рассмотрение приказа) 
-:Гендиректор: ---> (Рассмотрение приказа)
-:Гендиректор: ---> (Утверждение приказа)
+skinparam actor {
+	BackgroundColor White
+	ArrowColor Black
+	BorderColor Black
+}
+skinparam usecase {
+	BackgroundColor White
+	ArrowColor Black
+	BorderColor Black
+}
+left to right direction
+actor P0 as "Человек"
+actor M0 as "Программа"
+actor P as "Работодатель"
+actor M as "MS Word"
+usecase A as "Управлять"
+P -- (A)
+(A) -- M
+P0 <|-- P
+M --|> M0
 @enduml
