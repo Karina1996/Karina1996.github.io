@@ -29,7 +29,7 @@
 
 **Студент является человеком, который использует кухонные приборы. Каждый человек способен приготовить пищу согласно алгоритму действий (кулинарному рецепту), а без помощи пищевых продуктов это НЕВОЗМОЖНО.**
 
-* [Текст](hhttps://github.com/Karina1996/Karina1996.github.io/blob/master/Laba_1/UML_Code2.txt) и [Картинка](https://github.com/Karina1996/Karina1996.github.io/blob/master/Laba_1/UML_DiagramPrecedentov.png) диаграммы прецедентов
+* [Текст](https://github.com/Karina1996/Karina1996.github.io/blob/master/Laba_1/UML_Code2.txt) и [Картинка](https://github.com/Karina1996/Karina1996.github.io/blob/master/Laba_1/UML_DiagramPrecedentov.png) диаграммы прецедентов
 
 ![none](https://github.com/Karina1996/Karina1996.github.io/blob/master/Laba_1/UML_DiagramPrecedentov.png)
 
@@ -74,4 +74,6 @@
 ### Создание диаграммы прецедентов (отношения между действующими лицами и прецедентами) атоматизируемого блока "Управлять" в PLANTUML
 * [Текст](https://github.com/Karina1996/Karina1996.github.io/blob/master/Laba_2/UML_Code.txt) и [Картинка](https://github.com/Karina1996/Karina1996.github.io/blob/master/Laba_2/ProcA3_DiagramPreced.png) 
 ![none](https://github.com/Karina1996/Karina1996.github.io/blob/master/Laba_2/ProcA3_DiagramPreced.png)
+
+Доступ к программе MS Word разрешен только сотрудникам компании.
 
