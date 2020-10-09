@@ -14,6 +14,7 @@
 Исходный текст предложения: Приготовить шарлотку
 * IDEF0-диаграмма в развернутом виде:
 ![none](https://github.com/Karina1996/Karina1996.github.io/blob/master/Laba_1/exp_img/01_A0.png)
+
 Рузультативное предложение: **Студент при помощи кухонных приборов приготавливает шарлотку по кулинарному рецепту**
 
 [Файл модели](https://github.com/Karina1996/Karina1996.github.io/blob/master/Laba_1/IDEF0_cookCharlotte.rsf)
@@ -75,7 +76,7 @@
 * [Текст](https://github.com/Karina1996/Karina1996.github.io/blob/master/Laba_2/UML_Code.txt) и [Картинка](https://github.com/Karina1996/Karina1996.github.io/blob/master/Laba_2/ProcA3_DiagramPreced.png) 
 ![none](https://github.com/Karina1996/Karina1996.github.io/blob/master/Laba_2/ProcA3_DiagramPreced.png)
 
-**Доступ к программе MS Word разрешен только сотрудникам компании.
+**Доступ к программе MS Word разрешен только сотрудникам компании.**
 
  ## Лабораторная работа №3
 [Задание №3](https://github.com/stankin/design-1/wiki/lab-3)
