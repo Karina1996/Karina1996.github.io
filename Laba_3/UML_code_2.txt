@@ -1,0 +1,29 @@
+@startuml
+skinparam class {
+	BackgroundColor White
+	ArrowColor Black
+	BorderColor Black
+}
+
+class ControlInfo as "Информационный поток"
+
+class Prikaz as "Приказ"
+class Docs as "Документы и заявление"
+class Bad_prikaz as "Неоформленный приказ"
+class Printer as "Принтер"
+
+class Data_1 as "Запись в бд"
+class Data_2 as "Печать"
+
+ControlInfo <|-- Data_1 
+ControlInfo <|-- Data_2
+Data_1 <|-- Prikaz
+Data_2 <|-- Prikaz
+Prikaz *-- Docs
+Prikaz *-- Bad_prikaz
+Prikaz *-- Printer
+
+hide members
+hide circle
+hide methods
+@enduml
