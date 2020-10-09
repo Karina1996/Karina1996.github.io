@@ -7,7 +7,7 @@ skinparam class {
 
 class ControlInfo as "Информационный поток"
 
-class Prikaz as "Трудовой договор"
+class TD as "Трудовой договор"
 class Docs as "Документы и заявление"
 class Bad_prikaz as "Неоформленный приказ"
 class Printer as "Принтер"
@@ -17,11 +17,11 @@ class Data_2 as "Печать"
 
 ControlInfo <|-- Data_1 
 ControlInfo <|-- Data_2
-Data_1 <|-- Prikaz
-Data_2 <|-- Prikaz
-Prikaz *-- Docs
-Prikaz *-- Bad_prikaz
-Prikaz *-- Printer
+Data_1 <|-- TD
+Data_2 <|-- TD
+TD *-- Docs
+TD *-- Bad_prikaz
+TD *-- Printer
 
 hide members
 hide circle
