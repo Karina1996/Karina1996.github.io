@@ -1,0 +1,18 @@
+@startuml
+skinparam actor {
+	BackgroundColor White
+	ArrowColor Black
+	BorderColor Black
+}
+autonumber
+
+actor "Работодатель" as user_1 
+database "Оформленные документы" as db
+boundary "MS Word" as app
+user_1 -> db: запрос
+user_1 <- db: документы
+user_1 -> app: подготовка документов
+actor "Сотрудник" as user_2 
+app -> user_2: распечатанные документы
+user_2 <-> user_1: проверка и подпись
+@enduml
