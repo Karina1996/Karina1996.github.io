@@ -7,7 +7,7 @@ skinparam class {
 
 class ControlInfo as "Информационный поток"
 
-class Prikaz as "Приказ"
+class Prikaz as "Трудовой договор"
 class Docs as "Документы и заявление"
 class Bad_prikaz as "Неоформленный приказ"
 class Printer as "Принтер"
