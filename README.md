@@ -92,11 +92,11 @@
 3. Завершение идентификации всех потоков
 
 ### Создание ER - диаграммы (представление потока, переходящего из диаграммы IDEF0 (блок А1) в DFD)
-[Текст](https://github.com/Karina1996/Karina1996.github.io/blob/master/Laba_3/UML_code2.txt) и [Картинка](https://github.com/Karina1996/Karina1996.github.io/blob/master/Laba_2/ERD_A1.txt) диаграммы классов (общая структура иерархии классов)
+[Текст](https://github.com/Karina1996/Karina1996.github.io/blob/master/Laba_3/UML_code_2.txt) и [Картинка](https://github.com/Karina1996/Karina1996.github.io/blob/master/Laba_3/ERD_A1.txt) диаграммы классов (общая структура иерархии классов)
 
 ![none](https://github.com/Karina1996/Karina1996.github.io/blob/master/Laba_3/ERD_A1.png)
 
-Информационный поток: электронная и бумажная версия приказа.
+Информационный поток: электронная и бумажная версия трудового договора.
 
 *С помощью PlantUML выполнено построение диаграмм.*
 
