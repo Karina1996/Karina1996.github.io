@@ -6,13 +6,23 @@ skinparam actor {
 }
 autonumber
 
-actor "Работодатель" as user_1 
+actor "Ирина: Работодатель" as user_1
+boundary "MS Word" as EkzObj_1
 database "Оформленные документы" as db
-boundary "MS Word" as app
-user_1 -> db: запрос
-user_1 <- db: документы
-user_1 -> app: подготовка документов
-actor "Сотрудник" as user_2 
-app -> user_2: распечатанные документы
+boundary "MS Word" as EkzObj_2
+
+user_1 -> EkzObj_1: запрос
+EkzObj_1 -> db: документы
+db -> EkzObj_2: подготовка
+
+actor "Олег: Сотрудник" as user_2
+
+EkzObj_2 -> user_2: печать
+
 user_2 <-> user_1: проверка и подпись
+
+user_1 -> EkzObj_2: запрос
+user_2 -> EkzObj_2: запрос
+
+user_2 <-> user_1: проверка и электронная подпись
 @enduml
