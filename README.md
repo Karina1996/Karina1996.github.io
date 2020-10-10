@@ -1,6 +1,3 @@
-# Karina1996.github.io
-Приватный проект
-
 
 # Отчет по лабораторным работам
 # студент группы [ИДБ-17-05](https://github.com/stankin/design-part-1/wiki/list-idb-17-05) Лазарева К.Р.
