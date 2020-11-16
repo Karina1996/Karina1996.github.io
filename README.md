@@ -10,3 +10,4 @@
 ## РЕФЕРАТЫ: [сделанный](https://github.com/stankin/design-part-1/wiki/exam13-6), [проверенный](https://github.com/stankin/design-part-1/wiki/exam08-2)
 Замечания проверяющего (Шляпкиной Кристины) к выполненному реферату исправила, из реферата исключила.
 
+## [Конспект](https://github.com/Karina1996/Karina1996.github.io/wiki/%D0%9A%D0%BE%D0%BD%D1%81%D0%BF%D0%B5%D0%BA%D1%82-%D0%B2%D0%BE%D0%BF%D1%80%D0%BE%D1%81%D0%BE%D0%B2-13-%D0%B8-8) ответа на зачете ([вопросы 13 и 8](https://www.youtube.com/watch?v=YXnt-qzRqD0&feature=youtu.be))
