@@ -1,0 +1,58 @@
+@startuml
+skinparam class {
+	BackgroundColor White
+	ArrowColor Black
+	BorderColor Black
+}
+class Roles as "Роли"
+
+class People as "Участники проекта"
+class Mechanisms as "Механизмы"
+
+class Cooperator as "Сотрудник"
+class Users as "Пользователь Telegram"
+
+class Own as "Директор компании"
+class IT as "IT-отдел"
+class Loger as "Отдел логистики"
+class Marketer as "Отдел маркетинга"
+
+class Customer as "Клиент"
+class Delivery as "Курьерская служба"
+
+class Robot as "Чат-бот"
+
+class Files as "Файл"
+class System as "CMS-система"
+class Server as "Сервер"
+
+
+class YML as "YML"
+class DB as "База данных"
+
+Roles<|-- People
+Roles<|-- Mechanisms
+
+People<|-- Cooperator
+Cooperator<|-- Own
+Cooperator<|-- IT
+Cooperator<|-- Loger
+Cooperator<|-- Marketer
+
+Users<|-- Customer
+Users<|-- Delivery
+
+Robot<|-- Files
+Robot<|-- System
+Robot<|-- Server
+
+Files<|-- YML
+Files<|-- DB
+
+People<|-- Users
+Mechanisms<|-- Robot
+
+hide members
+hide circle
+hide methods
+@enduml

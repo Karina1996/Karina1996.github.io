@@ -1,0 +1,53 @@
+@startuml
+skinparam class {
+	BackgroundColor White
+	ArrowColor Black
+	BorderColor Black
+}
+class Flow as "Поток"
+
+
+class In as "Входной"
+class Out as "Выходной"
+class Managment as "Управления"
+
+
+class Information as "Информационный"
+class Monetary as "Материальный"
+class Information_1 as "Информационный"
+class Monetary_1 as "Материальный"
+
+class Data as "Данные"
+class Commands as "Команды \nдля управления ботом"
+class Order as "Заказ"
+
+class 1 as "Конкуренты, ассортимент, \nцели и ресурсы компании"
+class 2 as "Bot API, функционал бота, \nCMS, логин и пароль CMS"
+class 3 as "Имена: бота, БД, \nURL: YML, CMS, сайта компании, бота, сервера, \nпериод обновления: YML, БД, сайта"
+
+Flow<|-- In
+Flow<|-- Out
+Flow<|-- Managment
+
+Out<|-- Monetary
+
+
+Information<|-- Data
+Information<|-- Commands
+Monetary<|-- Order
+
+
+In<|-- Information
+
+Managment<|-- Information_1
+Managment<|-- Monetary_1
+
+Information_1<|-- 1
+Monetary_1<|-- 1
+Information_1<|-- 2
+Information_1<|-- 3
+
+hide members
+hide circle
+hide methods
+@enduml
