@@ -1,0 +1,18 @@
+<md-content class='md-padding' layout="row" layout-wrap>
+    <md-card ng-repeat="topic in topics" flex-xs="100" flex-sm="40" flex-gt-sm="25">
+        <img ng-src="{{topic.preview}}" class="md-card-image topic-card-image">
+        <md-card-title>
+            <md-card-title-text>
+                <span class="md-headline">{{topic.title}}</span>
+            </md-card-title-text>
+        </md-card-title>
+        <md-card-content>
+            <p>{{topic.description}}</p>
+        </md-card-content>
+        <md-card-actions layout="row" layout-align="end center">
+            <md-button class="md-primary" ng-href="#!/topics/{{topic.id}}">Подробнее</md-button>
+        </md-card-actions>
+    </md-card>
+    </div>
+    </div>
+</md-content>
