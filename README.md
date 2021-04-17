@@ -13,4 +13,4 @@
 ## [Курсовой проект "Интернет магазин"](https://github.com/Karina1996/Karina1996.github.io/wiki/%D0%9A%D1%83%D1%80%D1%81%D0%BE%D0%B2%D0%BE%D0%B9-%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82-%22%D0%98%D0%BD%D1%82%D0%B5%D1%80%D0%BD%D0%B5%D1%82-%D0%BC%D0%B0%D0%B3%D0%B0%D0%B7%D0%B8%D0%BD%22)
 (^_^) [support](https://github.com/stankin/design-part-2/wiki)
 
-## Представление [лабораторных с 1 - 7](https://karina1996.github.io/topics/) в GitHub Pages
+## Представление [лабораторных с 1 - 7](https://karina1996.github.io/site_labs) в GitHub Pages
