@@ -1,5 +1,5 @@
 {
-    "title": "Лабораторные №3-7. Подгтовка UML диаграмм курсовго проекта. Разработка UML Use Case, разработка UML Class, разработка UML Sequence, разработка UML Component",
+    "title": "Лабораторные №3-7. Подготовка UML диаграмм курсовго проекта. Разработка UML Use Case, разработка UML Class, разработка UML Sequence, разработка UML Component",
     "items": [
         {
             "type": "text",
@@ -15,7 +15,7 @@
             "type": "image",
             "data": "img/ВарИспользов.png"
         },
-  {
+        {
             "type": "text",
             "data": [
                 {
@@ -39,14 +39,11 @@
                 }
             ]
         },
-
         {
             "type": "image",
             "data": "img/Логика.png"
         },
-        
-          
-          {
+        {
             "type": "text",
             "data": [
                 {
@@ -55,7 +52,6 @@
                 }
             ]
         },
-
         {
             "type": "image",
             "data": "img/Комплект.png"
@@ -68,7 +64,6 @@
                     "class": "md-title"
                 }
             ]
-        }
-           
+        }     
     ]
 }
