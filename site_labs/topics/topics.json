@@ -1,14 +1,27 @@
 [
     {
         "id": 1,
-        "title": "UML Use Case",
-        "description": "Диаграмма прецедента",
-        "preview": "img/use-case-diagram.png"
+        "title": "Лабораторная №1",
+        "description": "Подготовка диаграмм IDEF0 курсового проекта",
+        "preview": "Karina1996.github.io/Лабы (весна)_(1-7)/01_A0.png"
     },
     {
         "id": 2,
-        "title": "UML Class",
-        "description": "Диаграмма классов",
-        "preview": "img/class-diagram.png"
+        "title": "Лабораторная №2",
+        "description": "Подготовка диаграмм DFD курсового проекта",
+        "preview": "Karina1996.github.io/Лабы (весна)_(1-7)/07_A31.png"
     }
+     {
+        "id": 3,
+        "title": "Лабораторная №3",
+        "description": "Планирование диаграмм UML курсового проекта",
+        "preview": "Karina1996.github.io/Лабы (весна)_(1-7)/Роли.png"
+    }
+     {
+        "id": 4,
+        "title": "Лабораторные №4-7",
+        "description": "Разметка и заполнение личной страницы, разработка UML Use Case, разработка UML Class, разработка UML Sequence, разработка UML Component''',
+        "preview": "Karina1996.github.io/Лабы (весна)_(1-7)/ВарИспользов.png"
+    }
+
 ]
