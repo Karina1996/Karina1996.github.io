@@ -1,6 +1,74 @@
 {
-    "title": "UML Class",
+    "title": "Лабораторная №3. Планирование диаграмм UML курсового проекта",
     "items": [
+        {
+            "type": "text",
+            "data": [
+                {
+                    "text": "Описание выбранного процесса",
+                    "class": "md-title"
+                }
+            ]
+        },
+
+        {
+            "type": "image",
+            "data": "img/ВарИспользов.png"
+        },
+  {
+            "type": "text",
+            "data": [
+                {
+                    "text": "Описание структуры объекта в формате ERD",
+                    "class": "md-title"
+                }
+            ]
+        },
+
+        {
+            "type": "image",
+            "data": "img/Схема_БД.png"
+        },
         
+          {
+            "type": "text",
+            "data": [
+                {
+                    "text": "Описание алгоритма в формате UML (Sequence)",
+                    "class": "md-title"
+                }
+            ]
+        },
+
+        {
+            "type": "image",
+            "data": "img/Логика.png"
+        },
+        
+          
+          {
+            "type": "text",
+            "data": [
+                {
+                    "text": "Описание состава в формате UML (Component) ",
+                    "class": "md-title"
+                }
+            ]
+        },
+
+        {
+            "type": "image",
+            "data": "img/Комплект.png"
+        },
+        {
+            "type": "text",
+            "data": [
+                {
+                    "text": "End of page",
+                    "class": "md-title"
+                }
+            ]
+        }
+           
     ]
 }
