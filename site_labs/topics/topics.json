@@ -13,14 +13,8 @@
     },
      {
         "id": 3,
-        "title": "Лабораторная №3",
-        "description": "Планирование диаграмм UML курсового проекта",
+        "title": "Лабораторные №3-7",
+        "description": "Разметка и заполнение личной страницы, разработка UML Use Case, разработка UML Class, разработка UML Sequence, разработка UML Component",
         "preview": "img/Роли.png"
     },
-     {
-        "id": 4,
-        "title": "Лабораторные №4-7",
-        "description": "Разметка и заполнение личной страницы, разработка UML Use Case, разработка UML Class, разработка UML Sequence, разработка UML Component",
-        "preview": "img/Комплект.png"
-    }
 ]
