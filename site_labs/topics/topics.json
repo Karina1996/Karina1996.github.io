@@ -3,25 +3,24 @@
         "id": 1,
         "title": "Лабораторная №1",
         "description": "Подготовка диаграмм IDEF0 курсового проекта",
-        "preview": "Karina1996.github.io/Лабы (весна)_(1-7)/01_A0.png"
+        "preview": "img/01_A0.png"
     },
     {
         "id": 2,
         "title": "Лабораторная №2",
         "description": "Подготовка диаграмм DFD курсового проекта",
-        "preview": "Karina1996.github.io/Лабы (весна)_(1-7)/07_A31.png"
-    }
+        "preview": "img/07_A31.png"
+    },
      {
         "id": 3,
         "title": "Лабораторная №3",
         "description": "Планирование диаграмм UML курсового проекта",
-        "preview": "Karina1996.github.io/Лабы (весна)_(1-7)/Роли.png"
-    }
+        "preview": "img/Роли.png"
+    },
      {
         "id": 4,
         "title": "Лабораторные №4-7",
-        "description": "Разметка и заполнение личной страницы, разработка UML Use Case, разработка UML Class, разработка UML Sequence, разработка UML Component''',
-        "preview": "Karina1996.github.io/Лабы (весна)_(1-7)/ВарИспользов.png"
+        "description": "Разметка и заполнение личной страницы, разработка UML Use Case, разработка UML Class, разработка UML Sequence, разработка UML Component",
+        "preview": "img/Комплект.png"
     }
-
 ]
