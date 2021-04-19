@@ -1,11 +1,11 @@
 {
-    "title": "Лабораторная №1",
+    "title": "Лабораторная №1. Подготовка диаграмм IDEF0 курсового проекта",
     "items": [
         {
             "type": "text",
             "data": [
                 {
-                    "text": "Разработка диаграммы",
+                    "text": "Функциональное моделирование процессов (IDEF0)",
                     "class": "md-title"
                 }
             ]
@@ -14,48 +14,30 @@
             "type": "text",
             "data": [
                 {
-                    "text": "Диаграмма создана с помощью "
-                },
-                {
-                    "text": "PlantUML",
-                    "link": "https://plantuml.com"
+                    "text": "*А1. Определить ассортимент *А2. Подготовить площадку торговли *А3. Обработать заказ"
                 }
             ]
         },
-        {
-            "type": "text",
-            "data": [
-                {
-                    "text": "PlantUML is used to draw UML diagrams, using a simple and human readable text description. Be careful, because it does not prevent you from drawing inconsistent diagrams (such as having two classes inheriting from each other, for example). So it's more a drawing tool than a modeling tool."
-                }
-            ]
-        },
+
         {
             "type": "image",
-            "data": "img/use-case-diagram.png"
+            "data": "img/01_A0.png"
         },
-        {
-            "type": "text",
-            "data": [
-                {
-                    "text": "Постусловия",
-                    "class": "md-title"
-                }
-            ]
+          {
+            "type": "image",
+            "data": "img/04_A2.png"
         },
-        {
-            "type": "list",
-            "data": [
-                [{
-                    "text": "сформирована личная страница с использованием HTML, CSS, JS"
-                }],
-                [{
-                    "text": "на личной странице зарезервированы места для описания результатов всех следующих лабораторных работ"
-                }],
-                [{
-                    "text": "ссылка на личную страницу записана в списке группы"
-                }]
-            ]
+          {
+            "type": "image",
+            "data": "img/06_A3.png"
+        },
+            {
+            "type": "image",
+            "data": "img/08_A32.png"
+        },
+            {
+            "type": "image",
+            "data": "img/06_A3.png"
         },
         {
             "type": "text",
