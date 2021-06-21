@@ -14,3 +14,5 @@
 (^_^) [support](https://github.com/stankin/design-part-2/wiki)
 
 ## Представление [лабораторных с 1 - 7](https://karina1996.github.io/site_labs) в GitHub Pages
+
+## РЕФЕРАТЫ: [сделанный](https://github.com/stankin/design-part-2/wiki/exam04-6), [проверенный](https://github.com/stankin/design-part-2/wiki/exam04-5)
